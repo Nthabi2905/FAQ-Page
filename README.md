@@ -14,7 +14,7 @@
 
 ## Overview
 
-![screenshot](FAQ (1).png)
+(FAQ (1).png)
 
 This project is a simple and clean FAQ (Frequently Asked Questions) web page designed using HTML and CSS. It demonstrates the fundamentals of web development, focusing on content structure, basic styling, and accessibility.
 
